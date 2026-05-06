@@ -25,3 +25,8 @@ yarn-error.*
 .DS_Store
 *.tsbuildinfo
 
+# Agent Stuff
+AGENTS.md
+CLAUDE.md
+docs/
+
